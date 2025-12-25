@@ -1,0 +1,5 @@
+{
+  "name": "DOI Batch Resolver",
+  "description": "A tool to batch resolve references to DOIs using the Crossref API. Ideal for cleaning up bibliographies from PDF text.",
+  "requestFramePermissions": []
+}
